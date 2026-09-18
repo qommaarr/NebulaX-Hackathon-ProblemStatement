@@ -1,0 +1,8 @@
+{
+  "name": "NebulaX Track Access Optimizer",
+  "description": "Decision-support platform and railway track possession scheduler for LTA NebulaX dual-line network (Alpha & Beta lines) supporting Scenarios A, B, and C with dynamic update, urgent maintenance re-optimization, minimal-churn replanning, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
